@@ -1,3 +1,3 @@
 # App project 
 
-Hello everyone, my name is Julio Cesar and I'm currently studying computer engineering, as my first project in Python, I created an application that obtains student information such as name, CPF, monthly fee and installments. The entire application was created with the purpose of optimizing tasks for small schools, I also used the tkinter and sqlite3 libraries.
+Ola pessoal, meu nome é julio cesar e atualmente eu estou cursando engenharia da computacao, como meu primeiro projeto em python, eu criei um aplicativo que obtem informacões de alunos como nome, cpf, mensalidade e parcelas. Todo o aplicativo foi criado com o proposito de optmizar tarefas de pequenas escolas, tambem utilizei as bibliotecas tkinter e sqlite3.
