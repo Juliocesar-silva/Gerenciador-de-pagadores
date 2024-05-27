@@ -1,4 +1,4 @@
-# App project 
+# APLICATIVO DE FINANÇAS/ GERENCIAMENTO DE PARCELAS E MENSALIDADES
 
 Ola pessoal, meu nome é Júlio César e atualmente eu estou cursando engenharia da computacão, este é o meu primeiro projeto em python. Portanto eu criei um aplicativo que obtêm informacões de alunos, como nome, cpf, mensalidade e parcelas. Todo o aplicativo foi criado com o proposito de optmizar tarefas de pequenas escolas, também utilizei as bibliotecas tkinter e sqlite3.
 
