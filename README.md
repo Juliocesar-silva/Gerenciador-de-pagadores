@@ -17,5 +17,7 @@ OBS_2: O número máximo de parcelas é 15, a cada parcela adicionada no banco d
 
 OBS_3: O arquivo do banco de dados desse aplicativo está junto a sua pasta de origem, portanto no DB browser é necessário selecionar esse aquivo para poder visualizar todas as modificações feitas no aplicativo.
 
+OBS_4: Atualmente o aplicativo está funcionando apenas no sistema operacional WINDOWS 10, futuramente eu pretendo atualizar para o WINDOWS 11.
+
 att.
 Júlio César Costa da Silva
